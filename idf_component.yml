@@ -1,0 +1,15 @@
+## IDF Component Manager Manifest File
+dependencies:
+  ## Required IDF version
+  idf:
+    version: ">=5.3"
+description: The uORB is an asynchronous publish() / subscribe() messaging API used for inter-thread communication.
+files:
+  exclude:
+  - .git
+  - dist
+license: MIT
+repository: https://github.com/PawnMa/uorb
+url: https://github.com/PawnMa/uorb
+version: 0.0.4
+

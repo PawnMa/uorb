@@ -6,6 +6,7 @@
 #include <uorb/uorb.h>
 
 #include <cerrno>
+#include <new> 
 
 #include "device_master.h"
 #include "device_node.h"
